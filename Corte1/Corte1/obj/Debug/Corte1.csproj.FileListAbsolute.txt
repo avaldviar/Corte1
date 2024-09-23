@@ -1,0 +1,10 @@
+C:\Users\gemel\Desktop\Corte1\Corte1\Corte1\bin\Debug\Corte1.exe.config
+C:\Users\gemel\Desktop\Corte1\Corte1\Corte1\bin\Debug\Corte1.exe
+C:\Users\gemel\Desktop\Corte1\Corte1\Corte1\bin\Debug\Corte1.pdb
+C:\Users\gemel\Desktop\Corte1\Corte1\Corte1\obj\Debug\Corte1.csproj.AssemblyReference.cache
+C:\Users\gemel\Desktop\Corte1\Corte1\Corte1\obj\Debug\Corte1.Form1.resources
+C:\Users\gemel\Desktop\Corte1\Corte1\Corte1\obj\Debug\Corte1.Properties.Resources.resources
+C:\Users\gemel\Desktop\Corte1\Corte1\Corte1\obj\Debug\Corte1.csproj.GenerateResource.cache
+C:\Users\gemel\Desktop\Corte1\Corte1\Corte1\obj\Debug\Corte1.csproj.CoreCompileInputs.cache
+C:\Users\gemel\Desktop\Corte1\Corte1\Corte1\obj\Debug\Corte1.exe
+C:\Users\gemel\Desktop\Corte1\Corte1\Corte1\obj\Debug\Corte1.pdb
